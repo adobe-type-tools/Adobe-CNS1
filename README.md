@@ -14,7 +14,7 @@ Adobe shall not be liable to any party for any loss of revenue or profit or for 
 
 Adobe holds no patents on the subject matter of this specification.
 
-Last updated 2017-10-09
+Last updated 2017-10-10
 
 ---
 ## Introduction
@@ -149,7 +149,7 @@ The [Standardized Variation Sequences](http://www.unicode.org/Public/UCD/latest/
 ---
 ## Glyph Tables
 
-Representative glyphs for CIDs 0 through 19178 are provided in the [*Adobe-CNS1-7.pdf*](https://github.com/adobe-type-tools/Adobe-CNS1/raw/master/Adobe-CNS1-7.pdf) file that is included in this repository, with 500 glyphs shown per page. And, for reader convenience, the beginning of each Supplement is clearly marked. *Adobe Ming Std L* (aka, AdobeMingStd-Light or Adobe 明體 Std L), designed by Arphic Technology, and owned by Adobe Systems Incorporated. The specific font instance is Version 7.000, as reflected in its /CIDFontVersion dictionary entry.
+Representative glyphs for CIDs 0 through 19178 are provided in the [*Adobe-CNS1-7.pdf*](https://github.com/adobe-type-tools/Adobe-CNS1/raw/master/Adobe-CNS1-7.pdf) file that is included in this repository, with 500 glyphs shown per page. And, for reader convenience, the beginning of each Supplement is clearly marked. The typeface used to exemplify each glyph is *Adobe Ming Std L* (aka, AdobeMingStd-Light or Adobe 明體 Std L), designed by Arphic Technology, and owned by Adobe Systems Incorporated. The specific font instance is Version 7.000, as reflected in its /CIDFontVersion dictionary entry.
 
 ---
 ## Changes Since Earlier Versions
@@ -167,5 +167,9 @@ The glyphs for Supplement 6 (CIDs 19088 through 19155) were added. AdobeMingStd-
 ### Since the 2012-01-12—Supplement 6—Version
 
 The glyphs for Supplement 7 (CIDs 19156 through 19178) were added. AdobeMingStd-Light (*Adobe Ming Std L*) with /CIDFontVersion value 7.000 was used for the representative glyphs. The entire specification was ported to GitHub markdown syntax and revised.
+
+### Since the 2017-10-09—Supplement 7—Version
+
+Minor editorial changes.
 
 That is all.
